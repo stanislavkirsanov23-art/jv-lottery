@@ -11,3 +11,4 @@ public enum Colors {
     CYAN,
     MAGENTA,
 }
+
